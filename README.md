@@ -54,21 +54,25 @@ Z is always equal to 0 until the depth measurment is done and kalman fliter esti
 4. Correspond image points to 3D points​
 5. Get an algorithm to find the best camera matrix which minimizes the error between estimate and known corresponding 2D points​ Best M occurs when p’ = p.​
 
-           ![mmm](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/7bdd7743-94ec-464b-bf70-0d28949fec46)
 
-
-   
-           ![2](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/3794b37c-800e-4da4-8565-cc722b2ceafc)
+      ![1](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/006f67ed-c56f-4b7b-be4d-17d63b29c991)
 
 
 
-1. The pinhole camera parameters are represented in a 3-by-4 matrix called the camera matrix.​
-2. Camera matrix can be decomposed into intrinsic matrix and extrinsic matrix.
+      ![2](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/9d77f165-6c98-448f-bfcd-4f547eac7dab)
+  
 
-         ![cam](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/b16d552c-9418-48ae-8cce-66c8680cd930)
 
-         ![mat](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/e7b4fe59-d623-4b55-9067-6254cd189b36)
 
+6. The pinhole camera parameters are represented in a 3-by-4 matrix called the camera matrix.​
+7. Camera matrix can be decomposed into intrinsic matrix and extrinsic matrix.
+
+
+         ![cam](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/bba5c3ae-ee7b-4fdd-9a5b-0b2cd6932aa4)
+
+
+
+         ![mat](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/2a5c2afa-de63-4056-b43a-42142af5fac7)
 
 
 

@@ -44,7 +44,7 @@ Z is always equal to 0 until the depth measurment is done and kalman fliter esti
 4. Missing frame due to the high-speed movement:​
    Kalman Filter estimates the missing localization coordination when the patient table moves fast to inside the CT coil as the marker may appear blurred or may not be captured by the camera in every frame. This can result in missing frames where the marker's position cannot be accurately determined due to rapid movement.​
 
-         <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/31438d34-6b23-47b8-907d-3d1b3f7ff8db" width="200" />
+![image](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/33aa58e2-19bd-457b-9aa0-4301709f6c09)
 
 
 ### Camera Calibration​ Overview:
@@ -54,19 +54,19 @@ Z is always equal to 0 until the depth measurment is done and kalman fliter esti
 4. Correspond image points to 3D points​
 5. Get an algorithm to find the best camera matrix which minimizes the error between estimate and known corresponding 2D points​ Best M occurs when p’ = p.​
 
-         <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/e169aebc-cf56-4d1a-b894-f589b431271b" width="200" />
+         ![image](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/e169aebc-cf56-4d1a-b894-f589b431271b" width="200")
 
    
-         <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/a98b390a-a599-4308-b480-2be1dbcf2488" width="200" />
+         ![image](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/a98b390a-a599-4308-b480-2be1dbcf2488" width="200")
 
 
 1. The pinhole camera parameters are represented in a 3-by-4 matrix called the camera matrix.​
 2. Camera matrix can be decomposed into intrinsic matrix and extrinsic matrix.
 
-         <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/98b60496-8e19-4749-8612-aecb76ca89e7" width="200" />
+         ![image]("https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/98b60496-8e19-4749-8612-aecb76ca89e7" width="200")
 
 
-         <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/bd22f923-30c3-47b6-8eef-162014be9372" width="200" />
+         ![image]("https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/bd22f923-30c3-47b6-8eef-162014be9372" width="200")
 
 
 

@@ -3,7 +3,7 @@
 ### Camera Used:
 Intel(R) RealSense(TM) Depth Camera 435i
 
-![WhatsApp Image 2024-04-06 at 4 43 37 PM](https://github.com/Arwa-Fawzy/Kalman-Filter-for-Object-Tracking-in-3D-Space/assets/101527083/17aa93ab-c4e2-4e8b-928d-d9f8d1193d57)
+<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-Object-Tracking-in-3D-Space/assets/101527083/17aa93ab-c4e2-4e8b-928d-d9f8d1193d57"  width="200" />
 
 ### Object to be detected:
 A black and white square object with a white circle in the middle. There is only 1 sample of Circle & Dot pattern printed in a 2D shape​. The Dimensions of the marker are:​

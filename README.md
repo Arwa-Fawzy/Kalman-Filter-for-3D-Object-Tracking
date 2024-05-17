@@ -15,7 +15,7 @@ A black and white square object with a white circle in the middle. There is only
 
 ### Marker Motion Tracking Output​:
 
-<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/3c48459c-664c-4447-b5e4-d3956389303a" width="200" />
+<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/3c48459c-664c-4447-b5e4-d3956389303a" width="400" />
 
 <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/c10514cd-de23-48ac-bd01-a1865bdb2578" width="400" />
 
@@ -63,10 +63,10 @@ Z is always equal to 0 until the depth measurment is done and kalman fliter esti
 1. The pinhole camera parameters are represented in a 3-by-4 matrix called the camera matrix.​
 2. Camera matrix can be decomposed into intrinsic matrix and extrinsic matrix.
 
-         ![image]("https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/98b60496-8e19-4749-8612-aecb76ca89e7" width="200")
+         ![image](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/790d3a28-c9e7-45bc-8984-4a1b4bd8c4d8)
 
 
-         ![image]("https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/bd22f923-30c3-47b6-8eef-162014be9372" width="200")
+         ![image](https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/b4269a45-3ae1-4bf3-a1bc-62996549cc10)
 
 
 

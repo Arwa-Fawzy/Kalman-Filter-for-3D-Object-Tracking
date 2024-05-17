@@ -17,9 +17,9 @@ A black and white square object with a white circle in the middle. There is only
 
 <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/3c48459c-664c-4447-b5e4-d3956389303a" width="200" />
 
-<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/c10514cd-de23-48ac-bd01-a1865bdb2578" width="200" />
+<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/c10514cd-de23-48ac-bd01-a1865bdb2578" width="400" />
 
-<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/1318e619-1375-4f40-a2a3-39295fc9f0a8" width="200" />
+<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/1318e619-1375-4f40-a2a3-39295fc9f0a8" width="400" />
 
 
 Z is always equal to 0 until the depth measurment is done and kalman fliter estimates the z values based on this depth as intial value. 
@@ -41,10 +41,11 @@ Z is always equal to 0 until the depth measurment is done and kalman fliter esti
 
       <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/46b45648-d029-48f1-93f5-04212fe8e6e6" width="200" />
 
-7. Missing frame due to the high-speed movement:​
+4. Missing frame due to the high-speed movement:​
    Kalman Filter estimates the missing localization coordination when the patient table moves fast to inside the CT coil as the marker may appear blurred or may not be captured by the camera in every frame. This can result in missing frames where the marker's position cannot be accurately determined due to rapid movement.​
 
-         <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/9d8f0bcd-1935-4e55-84f5-adb9c7a50c63" width="200" />
+         <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/31438d34-6b23-47b8-907d-3d1b3f7ff8db" width="200" />
+
 
 ### Camera Calibration​ Overview:
 1. The World vs Camera coordinates​

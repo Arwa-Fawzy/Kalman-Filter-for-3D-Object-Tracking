@@ -15,9 +15,9 @@ A black and white square object with a white circle in the middle. There is only
 
 ### Marker Motion Tracking Output​:
 
-<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/3c48459c-664c-4447-b5e4-d3956389303a" width="400" />
+<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/3c48459c-664c-4447-b5e4-d3956389303a" width="200" />
 
-<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/c10514cd-de23-48ac-bd01-a1865bdb2578" width="400" />
+<img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/c10514cd-de23-48ac-bd01-a1865bdb2578" width="200" />
 
 <img src="https://github.com/Arwa-Fawzy/Kalman-Filter-for-3D-Object-Tracking/assets/101527083/1318e619-1375-4f40-a2a3-39295fc9f0a8" width="400" />
 
